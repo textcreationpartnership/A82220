@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Declaration of the proceedings of His Highness the Lord Protector; and his reasons touching the late change and revolution in Parliament; with the true and perfect copy of the new test and engagement, tendered to each Member, in order to the government of the Church, the liberties of the people, and the laws of the nation. With the Parliaments declaration thereupon;</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82220</idno>
+            <idno type="STC">Wing D746</idno>
+            <idno type="STC">Thomason E811_6</idno>
+            <idno type="STC">ESTC R207607</idno>
+            <idno type="EEBO-CITATION">99866648</idno>
+            <idno type="PROQUEST">99866648</idno>
+            <idno type="VID">167927</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82220)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 167927)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 123:E811[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Declaration of the proceedings of His Highness the Lord Protector; and his reasons touching the late change and revolution in Parliament; with the true and perfect copy of the new test and engagement, tendered to each Member, in order to the government of the Church, the liberties of the people, and the laws of the nation. With the Parliaments declaration thereupon;</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R. Wood,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page bears woodcut portrait with inscription "O.P.", i.e., Oliver Protector.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e., September] 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:167927:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF The Proceedings of His Highneſs the Lord Pro<g ref="char:EOLhyphen"/>tector; And His Reaſon Touching the late Change and Revo<g ref="char:EOLhyphen"/>lution in Parliament; With the true and perfect Copy of the new TEST and Engagement, tendered to each Member, in order to the <hi>Government of the Church,</hi> the Liberties of the People, and the Laws of the <hi>Nation.</hi> With the <hi>Parliaments Declaration</hi> thereupon;</p>
+            <figure>
+               <figDesc>portrait of Oliver Cromwell framed by laurels</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> printed by <hi>R. WOOD,</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:167927:2"/>
+            <pb n="3" facs="tcp:167927:2"/>
+            <head>A Declaration of the proceedings of his Highneſs the Lord Protector; with His Reaſons touching the late Change and Revolution in Parliament; and the true and perfect Copy of the Engagement: with the Parliaments Declaration ther<g ref="char:EOLhyphen"/>upon.</head>
+            <p>HIs Highneſſe the Lord Protector having taken into ſerious conſideration the Reſults and proceedings of the Parlia<g ref="char:EOLhyphen"/>ment, and their inſiſting upon four days debate about the Government, without coming to any Queſtion thereupon, was pleaſed (to prevent the Evils that might enſue through delay) to ſend notice, That he intended in perſon to meet them in the Painted-Chamber; where divers Members re<g ref="char:EOLhyphen"/>paired; and his Highneſſe coming from White-Hall by water, entred the Room, and declared him<g ref="char:EOLhyphen"/>ſelf as followeth:</p>
+            <pb n="4" facs="tcp:167927:3"/>
+            <p>THat when he met them, and delivered his mind to them, in the ſame place the other day, he did it with much more hopes and comfort then now, That he was very ſorry to find them fal<g ref="char:EOLhyphen"/>ling into heats and diviſions; opened to them at large the miſcarriages of the former longParlia<g ref="char:EOLhyphen"/>ment, and by what meanes he came to the Govern<g ref="char:EOLhyphen"/>ment, and that the people had many wayes given conſent thereunto. That when in his ſpeech the o<g ref="char:EOLhyphen"/>ther day, he told them they were a free Parliament, he did alſo conſider there was a Reciprocation, for that the ſame Government that made them a Par<g ref="char:EOLhyphen"/>liament, made him Protector; and as they were in<g ref="char:EOLhyphen"/>truſted with ſome things, ſo is he with other things. And that there were ſome things in the Govern<g ref="char:EOLhyphen"/>ment Fundamental, and could not be altered: As</p>
+            <p n="1">1 That the Government ſhould be in one per<g ref="char:EOLhyphen"/>ſon and a Parliament.</p>
+            <p n="2">2 That Parliaments ſhould not be made perpe<g ref="char:EOLhyphen"/>tual; which would deprive the People of their Suc<g ref="char:EOLhyphen"/>ceſſions: Nor that Parliaments ſhould be alwayes ſitting; that is, as ſoon as one Parliament is up, that another ſhould come and ſit in their places the very next day, and that this could not be, without ſubje<g ref="char:EOLhyphen"/>cting the Nation to an Arbytrary power in gover<g ref="char:EOLhyphen"/>ning, becauſe Parliaments, as long as they ſit, are ab<g ref="char:EOLhyphen"/>ſolute
+<pb n="5" facs="tcp:167927:3"/>and unlimited.</p>
+            <p n="3">3 That the third Funda<g ref="char:EOLhyphen"/>mental was in the matter of the Militia; and there<g ref="char:EOLhyphen"/>fore, that for preventing the two afore-mentioned Inconveniences, The Militia was not to be truſted in any one Hand or Power; but ſo to be diſpoſed, that as the Parliament ought to have a check upon the Protector, to prevent exceſſes in him; ſo on the other hand, the Protector ought to have a check up<g ref="char:EOLhyphen"/>on the Parliament in the buſineſs of the Militia, to prevent exceſſes in them; becauſe if it were wholly in the Parliament, They m ght (when they would) perpetuate themſelves, but now the Militia being diſpoſed as it is, the one ſtands as a Counter-poize to the other, and renders the Balance of Govern<g ref="char:EOLhyphen"/>ment the more even, and the Government it ſelf the more firm and ſtable.</p>
+            <p n="4">4. The laſt was about a due Liberty of Conſcience in matter of Religion, wherein Bonuds and Limits ought to be ſet, ſo as to prevent perſecution.</p>
+            <p>To this his Highneſs added, that the reſt of the things in the Government were ex<g ref="char:EOLhyphen"/>aminable and alterable, as the occaſion and the ſtate of affairs ſhould require. And as
+<pb n="6" facs="tcp:167927:4"/>for a Negative voice, he claimed in not, ſave onely in the aforeſaid particulars, That in all other things he had onely a deliberative Power, and if he did not paſs ſuch Lawes as were preſented to him, within 20 dayes after their Preſentmena, they were to be Laws without his conſent.</p>
+            <p>And therefore his Highneſs further declared, that things being thus, he was ſorry to underſtand, That any of them ſhould go about to overthrow what was ſo ſetled, contrary to their Truſts received from the People; which could not but bring on very great Inconveniences. To prevent which, he told them, he was neceſſitated to appoint a Teſt or Recognition of the Government, which was to be ſigned by Them, before they went any more into the Houſe. And ſo his Highneſs diſmiſſed Them.</p>
+            <p>
+               <floatingText xml:lang="eng" type="oath">
+                  <body>
+                     <head>The TEST.</head>
+                     <p>I AB. do hereby promiſe and engage my ſelf to be true and faithful to the Lord Protector, and the Common-wealth of England, Scotland and Ireland; and that according to the tenor of the Indenture,
+<pb n="7" facs="tcp:167927:4"/>whereby I am returned to ſerve in this pre<g ref="char:EOLhyphen"/>ſent Parliament, I will not propoſe or give my conſent, to alter the Government, as it is ſettled in one ſingle Perſon and a Parlia<g ref="char:EOLhyphen"/>ment.</p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>This engroſſed in Parchment, was pla<g ref="char:EOLhyphen"/>ced on a Table near the door of the Houſe to be peruſed by the Members, &amp; ſubſcri<g ref="char:EOLhyphen"/>bed before they went in. Above 140 of the Members forth with ſigned it and took their places, and many more are hourly ſigning.</p>
+         </div>
+         <div type="declaration">
+            <pb n="8" facs="tcp:167927:5"/>
+            <head>The Parliaments Declaration.</head>
+            <p>THe Parliament doth Declare, that the Recognition of the Government by the Members of this Parlia<g ref="char:EOLhyphen"/>ment in the words following; viz.</p>
+            <p>
+               <hi>I do heaeby freely promiſe and Engage, to be true and Faith<g ref="char:EOLhyphen"/>full to the Lord Protector, and the Commonwealth of</hi> England. Scotland and Ireland, <hi>and ſhall not (according to the Tenour of the Indenture, whereby I am returned to ſerve in this preſent parliament) propoſe, or give my conſent to altor the Government as it is ſetled in one perſon, and a parliament.</hi>
+            </p>
+            <p>Doth not comprehend, or ſhall be conſtrued to com<g ref="char:EOLhyphen"/>prehend therein the whole Government, conſiſting of Fourty two Articles; but that the ſame doth only include what concerns the Government of the Common-wealth by a ſingle perſon, and ſucceſſive parliaments</p>
+         </div>
+         <div type="order_to_print">
+            <p>ORdered by the Parliament that this Declara<g ref="char:EOLhyphen"/>tion be forthwith printed and publiſhed.</p>
+            <p>
+               <hi>Hen. Scobel,</hi> Clerk of the <hi>parliament.</hi>
+            </p>
+            <pb facs="tcp:167927:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
